@@ -13,6 +13,8 @@ import org.thymeleaf.templatemode.TemplateMode;
 
 @Configuration
 
+//fanny
+
 public class ProjectConfig implements WebMvcConfigurer {
 
     @Bean
